@@ -5,7 +5,7 @@ Its where you can navigate inside your computer. Learn the basic commands you wi
 Its a few Command Lines that you can use to make your life easier:
 1-Lets start with create a directory mkdir;
 2-Open a directory cd;
-3-create a file touch;
+3-create a file touch or new-item;
 4-delete or remove a file rm;
 
 5-If you all ready have a directory and you want to work on it, you can use pwd;
